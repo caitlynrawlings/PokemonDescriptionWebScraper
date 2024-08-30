@@ -1,4 +1,4 @@
-# PokemonDescriptionWebScraper
+# Pokemon Description Web Scraper
 Webscraper used to pull physical descriptions of pokemon from [https://bulbapedia.bulbagarden.net](https://bulbapedia.bulbagarden.net/wiki/Main_Page) and create table of the names and descriptions.
 I am planning on using the descriptions as alt text for pokemon images.
 
